@@ -1,0 +1,26 @@
+Europium is a chemical element with the symbol Eu and atomic number 63. 
+Europium is the most reactive lanthanide by far, having to be stored 
+under an inert fluid to protect it from atmospheric oxygen or moisture. 
+Europium is also the softest lanthanide, as it can be dented with a 
+fingernail and easily cut with a knife. When oxidation is removed a 
+shiny-white metal is visible. Europium was isolated in 1901 and is named 
+after the continent of Europe. Being a typical member of the lanthanide 
+series, europium usually assumes the oxidation state +3, but the oxida
+tion state +2 is also common. All europium compounds with oxidation state 
++2 are slightly reducing. Europium has no significant biological role and 
+is relatively non-toxic compared to other heavy metals. Most applications 
+of europium exploit the phosphorescence of europium compounds. Europium is 
+one of the rarest of the rare-earth elements on Earth.
+Europium is a ductile metal with a hardness similar to that of lead. It 
+crystallizes in a body-centered cubic lattice. Some properties of europium 
+are strongly influenced by its half-filled electron shell. Europium has 
+the second lowest melting point and the lowest density of all lanthanides.
+
+Europium has been claimed to become a superconductor when it is cooled 
+below 1.8 K and compressed to above 80 GPa. However the experimental 
+evidence on which this claim is based has been challenged. If it becomes 
+a superconductor this is believed to occur because europium is divalent 
+in the metallic state, and is converted into the trivalent state by the 
+applied pressure. In the divalent state, the strong local magnetic moment 
+(J = 7/2) suppresses the superconductivity, which is induced by eliminat
+ing this local moment (J = 0 in Eu3+).

@@ -1,0 +1,37 @@
+Bohrium is a synthetic chemical element with the symbol Bh and atomic 
+number 107. It is named after Danish physicist Niels Bohr. As a synthetic 
+element, it can be created in a laboratory but is not found in nature. 
+All known isotopes of bohrium are extremely radioactive; the most stable 
+known isotope is 270Bh with a half-life of approximately 61 seconds, though 
+the unconfirmed 278Bh may have a longer half-life of about 690 seconds.
+
+In the periodic table, it is a d-block transactinide element. It is a member
+ of the 7th period and belongs to the group 7 elements as the fifth member of 
+the 6d series of transition metals. Chemistry experiments have confirmed 
+that bohrium behaves as the heavier homologue to rhenium in group 7. The 
+chemical properties of bohrium are characterized only partly, but they compare 
+well with the chemistry of the other group 7 elements.
+The heaviest atomic nuclei are created in nuclear reactions that combine two 
+other nuclei of unequal size into one; roughly, the more unequal the two nuclei 
+in terms of mass, the greater the possibility that the two react. The material 
+made of the heavier nuclei is made into a target, which is then bombarded by 
+the beam of lighter nuclei. Two nuclei can only fuse into one if they approach 
+each other closely enough; normally, nuclei (all positively charged) repel 
+each other due to electrostatic repulsion. The strong interaction can overcome 
+this repulsion but only within a very short distance from a nucleus; beam nuclei 
+are thus greatly accelerated in order to make such repulsion insignificant 
+compared to the velocity of the beam nucleus. Coming close alone is not enough 
+for two nuclei to fuse: when two nuclei approach each other, they usually remain 
+together for approximately 10−20 seconds and then part ways (not necessarily in 
+the same composition as before the reaction) rather than form a single nucleus. 
+If fusion does occur, the temporary merger—termed a compound nucleus—is an 
+excited state. To lose its excitation energy and reach a more stable state, a 
+compound nucleus either fissions or ejects one or several neutrons, which carry 
+away the energy. This occurs in approximately 10−16 seconds after the initial 
+collision.
+
+The beam passes through the target and reaches the next chamber, the separator; 
+if a new nucleus is produced, it is carried with this beam. In the separator, 
+the newly produced nucleus is separated from other nuclides (that of the 
+original beam and any other reaction products) and transferred to a surface-
+barrier detector, which stops the nucleus.

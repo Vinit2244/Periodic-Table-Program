@@ -1,0 +1,29 @@
+Zirconium is a chemical element with the symbol Zr and atomic number 40. 
+The name zirconium is taken from the name of the mineral zircon (the word 
+is related to Persian zargun (zircon; zar-gun, "gold-like" or "as gold"), 
+the most important source of zirconium. It is a lustrous, grey-white, 
+strong transition metal that closely resembles hafnium and, to a lesser 
+extent, titanium. Zirconium is mainly used as a refractory and opacifier, 
+although small amounts are used as an alloying agent for its strong 
+resistance to corrosion. Zirconium forms a variety of inorganic and 
+organometallic compounds such as zirconium dioxide and zirconocene 
+dichloride, respectively. Five isotopes occur naturally, four of which are 
+stable. Zirconium compounds have no known biological role.
+Zirconium is a lustrous, greyish-white, soft, ductile, malleable metal that 
+is solid at room temperature, though it is hard and brittle at lesser purities. 
+In powder form, zirconium is highly flammable, but the solid form is much less 
+prone to ignition. Zirconium is highly resistant to corrosion by alkalis,
+ acids, salt water and other agents. However, it will dissolve in hydrochloric 
+and sulfuric acid, especially when fluorine is present. Alloys with zinc are 
+magnetic at less than 35 K.
+
+The melting point of zirconium is 1855 °C (3371 °F), and the boiling point is 
+4409 °C (7968 °F). Zirconium has an electronegativity of 1.33 on the Pauling 
+scale. Of the elements within the d-block with known electronegativities, 
+zirconium has the fifth lowest electronegativity after hafnium, yttrium, 
+lanthanum, and actinium.
+
+At room temperature zirconium exhibits a hexagonally close-packed crystal 
+structure, α-Zr, which changes to β-Zr, a body-centered cubic crystal 
+structure, at 863 °C. Zirconium exists in the beta-phase until the melting 
+point.

@@ -1,0 +1,29 @@
+Meitnerium is a synthetic chemical element with the symbol Mt and atomic number 109. 
+It is an extremely radioactive synthetic element (an element not found in nature, 
+but can be created in a laboratory). The most stable known isotope, meitnerium-278, 
+has a half-life of 4.5 seconds, although the unconfirmed meitnerium-282 may have a 
+longer half-life of 67 seconds. The GSI Helmholtz Centre for Heavy Ion Research near 
+Darmstadt, Germany, first created this element in 1982. It is named after Lise Meitner.
+
+In the periodic table, meitnerium is a d-block transactinide element. It is a member 
+of the 7th period and is placed in the group 9 elements, although no chemical 
+experiments have yet been carried out to confirm that it behaves as the heavier 
+homologue to iridium in group 9 as the seventh member of the 6d series of transition 
+metals. Meitnerium is calculated to have similar properties to its lighter homologues, 
+cobalt, rhodium, and iridium.
+The heaviest atomic nuclei are created in nuclear reactions that combine two other 
+nuclei of unequal size into one; roughly, the more unequal the two nuclei in terms of
+ mass, the greater the possibility that the two react. The material made of the heavier 
+nuclei is made into a target, which is then bombarded by the beam of lighter nuclei. 
+Two nuclei can only fuse into one if they approach each other closely enough; 
+normally, nuclei (all positively charged) repel each other due to electrostatic 
+repulsion. The strong interaction can overcome this repulsion but only within a very 
+short distance from a nucleus; beam nuclei are thus greatly accelerated in order to 
+make such repulsion insignificant compared to the velocity of the beam nucleus. Coming 
+close alone is not enough for two nuclei to fuse: when two nuclei approach each other, 
+they usually remain together for approximately 10−20 seconds and then part ways (not
+ necessarily in the same composition as before the reaction) rather than form a single 
+nucleus. If fusion does occur, the temporary merger—termed a compound nucleus—is an 
+excited state. To lose its excitation energy and reach a more stable state, a compound 
+nucleus either fissions or ejects one or several neutrons, which carry away the energy. 
+This occurs in approximately 10−16 seconds after the initial collision.

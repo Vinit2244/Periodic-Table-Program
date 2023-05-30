@@ -1,0 +1,35 @@
+Gallium is a chemical element with the symbol Ga and atomic number 31. 
+Elemental gallium is a soft, silvery metal at standard temperature and 
+pressure; however in its liquid state it becomes silvery white. If too 
+much force is applied, the gallium may fracture conchoidally. It is in 
+group 13 of the periodic table, and thus has similarities to the other 
+metals of the group, aluminium, indium, and thallium. Gallium does not 
+occur as a free element in nature, but as gallium (III) compounds in 
+trace amounts in zinc ores such as sphalerite and in bauxite. Elemental 
+gallium is a liquid at temperatures greater than 29.76 degree C (85.57 
+degree F), and will melt in a person's hands at normal human body 
+temperature of 37.0 degree C (98.6 degree F).
+
+The melting point of gallium is used as a temperature reference point. 
+Gallium alloys are used in thermometers as a non-toxic and environmentally 
+friendly alternative to mercury, and can withstand higher temperatures 
+than mercury. An even lower melting point of -19 degree C (-2 degree F),
+well below the freezing point of water, is claimed for the alloy galinstan 
+(62–95% gallium, 5–22% indium, and 0–16% tin by weight), but that may be 
+the freezing point with the effect of supercooling.
+
+Since its discovery in 1875, gallium has been used to make alloys with low 
+melting points. It is also used in semiconductors as a dopant in 
+semiconductor substrates.
+
+Gallium is predominantly used in electronics. Gallium arsenide, the primary 
+chemical compound of gallium in electronics, is used in microwave circuits, 
+high-speed switching circuits, and infrared circuits. Semiconducting gallium 
+nitride and indium gallium nitride produce blue and violet light-emitting 
+diodes (LEDs) and diode lasers. Gallium is also used in the production of 
+artificial gadolinium gallium garnet for jewelry. Gallium is considered a 
+technology-critical element.
+
+Gallium has no known natural role in biology. Gallium(III) behaves in a 
+similar manner to ferric salts in biological systems and has been used in 
+some medical applications, including pharmaceuticals and radiopharmaceuticals.

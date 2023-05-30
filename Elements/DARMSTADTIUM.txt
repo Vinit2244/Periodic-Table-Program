@@ -1,0 +1,25 @@
+Darmstadtium is a chemical element with the symbol Ds and atomic number 
+110. It is an extremely radioactive synthetic element. The most stable 
+known isotope, darmstadtium-281, has a half-life of approximately 12.7 
+seconds. Darmstadtium was first created in 1994 by the GSI Helmholtz 
+Centre for Heavy Ion Research in the city of Darmstadt, Germany, 
+after which it was named.
+
+In the periodic table, it is a d-block transactinide element. It is a 
+member of the 7th period and is placed in the group 10 elements, 
+although no chemical experiments have yet been carried out to confirm 
+that it behaves as the heavier homologue to platinum in group 10 as 
+the eighth member of the 6d series of transition metals. Darmstadtium 
+is calculated to have similar properties to its lighter homologues, 
+nickel, palladium, and platinum.
+The heaviest atomic nuclei are created in nuclear reactions that combine 
+two other nuclei of unequal size into one; roughly, the more unequal 
+the two nuclei in terms of mass, the greater the possibility that the 
+two react. The material made of the heavier nuclei is made into a target,
+ which is then bombarded by the beam of lighter nuclei. Two nuclei can 
+only fuse into one if they approach each other closely enough; normally, 
+nuclei (all positively charged) repel each other due to electrostatic 
+repulsion. The strong interaction can overcome this repulsion but only 
+within a very short distance from a nucleus; beam nuclei are thus 
+greatly accelerated in order to make such repulsion insignificant 
+compared to the velocity of the beam nucleus.

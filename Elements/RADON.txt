@@ -1,0 +1,30 @@
+Radon is a chemical element with the symbol Rn and atomic number 86. 
+It is a radioactive, colorless, odorless, tasteless noble gas. It 
+occurs naturally in minute quantities as an intermediate step in the 
+normal radioactive decay chains through which thorium and uranium 
+slowly decay into lead and various other short-lived radioactive 
+elements. Radon itself is the immediate decay product of radium. Its 
+most stable isotope, 222Rn, has a half-life of only 3.8 days, making 
+it one of the rarest elements. Since thorium and uranium are two of 
+the most common radioactive elements on Earth, while also having three 
+isotopes with half-lives on the order of several billion years, radon 
+will be present on Earth long into the future despite its short half-
+life. The decay of radon produces many other short-lived nuclides, known 
+as "radon daughters", ending at stable isotopes of lead.
+
+Unlike all other intermediate elements in the aforementioned decay chains, 
+radon is, under standard conditions, gaseous and easily inhaled, and 
+therefore a health hazard. It is often the single largest contributor to 
+an individual's background radiation dose, but due to local differences 
+in geology, the level of exposure to radon gas differs from place to place. 
+A common source is uranium-containing minerals in the ground, and therefore 
+it accumulates in subterranean areas such as basements. Radon can also 
+occur in some ground water like spring waters and hot springs.
+
+Epidemiological studies have shown a clear link between breathing high 
+concentrations of radon and incidence of lung cancer. Radon is a contaminant 
+that affects indoor air quality worldwide. According to the United States 
+Environmental Protection Agency (EPA), radon is the second most frequent cause 
+of lung cancer, after cigarette smoking, causing 21,000 lung cancer deaths per 
+year in the United States. About 2,900 of these deaths occur among people who 
+have never smoked.

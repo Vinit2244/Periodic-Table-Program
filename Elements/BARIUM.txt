@@ -1,0 +1,36 @@
+Barium is a chemical element with the symbol Ba and atomic number 56. 
+It is the fifth element in group 2 and is a soft, silvery alkaline earth 
+metal. Because of its high chemical reactivity, barium is never found in 
+nature as a free element.
+
+The most common minerals of barium are baryte (barium sulfate, BaSO4) and 
+witherite (barium carbonate, BaCO3). The name barium originates from the 
+alchemical derivative "baryta", from Greek (barys), meaning "heavy". Baric 
+is the adjectival form of barium. Barium was identified as a new element in 
+1774, but not reduced to a metal until 1808 with the advent of electrolysis.
+
+Barium has few industrial applications. Historically, it was used as a getter 
+for vacuum tubes and in oxide form as the emissive coating on indirectly 
+heated cathodes. It is a component of YBCO (high-temperature superconductors) 
+and electroceramics, and is added to steel and cast iron to reduce the size of 
+carbon grains within the microstructure. Barium compounds are added to fireworks 
+to impart a green color. Barium sulfate is used as an insoluble additive to oil 
+well drilling fluid, as well as in a purer form, as X-ray radiocontrast agents 
+for imaging the human gastrointestinal tract. Water-soluble barium compounds 
+are poisonous and have been used as rodenticides.
+Barium is a soft, silvery-white metal, with a slight golden shade when ultrapure. 
+The silvery-white color of barium metal rapidly vanishes upon oxidation in air 
+yielding a dark gray layer containing the oxide. Barium has a medium specific 
+weight and high electrical conductivity. Because barium is difficult to purify, 
+many of its properties have not been accurately determined.
+
+At room temperature and pressure, barium metal adopts a body-centered cubic 
+structure, with a barium–barium distance of 503 picometers, expanding with 
+heating at a rate of approximately 1.8×10−5/°C. It is a very soft metal with 
+a Mohs hardness of 1.25. Its melting temperature of 1,000 K (730 °C; 1,340 °F) 
+4–43  is intermediate between those of the lighter strontium (1,050 K or 780 
+°C or 1,430 °F) 4–86  and heavier radium (973 K or 700 °C or 1,292 °F); 4–78  
+however, its boiling point of 2,170 K (1,900 °C; 3,450 °F) exceeds that of 
+strontium (1,655 K or 1,382 °C or 2,519 °F). 4–86  The density (3.62 g/cm3) 
+4–43  is again intermediate between those of strontium (2.36 gram/centimeter 
+cube) 4–86  and radium (≈5 grams/centimeter cube).

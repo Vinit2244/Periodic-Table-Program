@@ -1,0 +1,29 @@
+Hafnium is a chemical element with the symbol Hf and atomic number 72. 
+A lustrous, silvery gray, tetravalent transition metal, hafnium chemically 
+resembles zirconium and is found in many zirconium minerals. Its existence 
+was predicted by Dmitri Mendeleev in 1869, though it was not identified 
+until 1923, by Dirk Coster and George de Hevesy, making it the second-last 
+stable element to be discovered (the last being rhenium). Hafnium is named 
+after Hafnia, the Latin name for Copenhagen, where it was discovered.
+
+Hafnium is used in filaments and electrodes. Some semiconductor fabrication 
+processes use its oxide for integrated circuits at 45 nm and smaller feature 
+lengths. Some superalloys used for special applications contain hafnium in 
+combination with niobium, titanium, or tungsten.
+
+Hafnium's large neutron capture cross section makes it a good material for 
+neutron absorption in control rods in nuclear power plants, but at the same 
+time requires that it be removed from the neutron-transparent corrosion-
+resistant zirconium alloys used in nuclear reactors
+Hafnium is a shiny, silvery, ductile metal that is corrosion-resistant and 
+chemically similar to zirconium (due to its having the same number of valence 
+electrons, being in the same group, but also to relativistic effects; the 
+expected expansion of atomic radii from period 5 to 6 is almost exactly 
+cancelled out by the lanthanide contraction). Hafnium changes from its alpha
+form, a hexagonal close-packed lattice, to its beta form, a body-centered 
+cubic lattice, at 2388 K. The physical properties of hafnium metal samples 
+are markedly affected by zirconium impurities, especially the nuclear 
+properties, as these two elements are among the most difficult to separate 
+because of their chemical similarity.A notable physical difference between 
+these metals is their density, with zirconium having about one-half the 
+density of hafnium.
