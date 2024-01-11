@@ -1,6 +1,6 @@
 # Periodic Table Program Readme
 
-I developed this project as my class 12th year end project.
+I developed this as a personal project as my class 12th year end project.
 
 ## Project Overview
 
