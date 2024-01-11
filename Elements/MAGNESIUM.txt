@@ -16,7 +16,7 @@ element dissolved in seawater, after sodium and chlorine.
 Magnesium occurs naturally only in combination with other elements, where it 
 invariably has a +2 oxidation state. The free element (metal) can be produced 
 artificially, and is highly reactive (though in the atmosphere it is soon coated 
-in a thin layer of oxide that partly inhibits reactivity – see passivation). 
+in a thin layer of oxide that partly inhibits reactivity see passivation). 
 The free metal burns with a characteristic brilliant-white light. The metal is 
 now obtained mainly by electrolysis of magnesium salts obtained from brine, and 
 is used primarily as a component in aluminium-magnesium alloys, sometimes called 

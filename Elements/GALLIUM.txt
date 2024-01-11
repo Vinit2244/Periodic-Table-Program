@@ -15,7 +15,7 @@ Gallium alloys are used in thermometers as a non-toxic and environmentally
 friendly alternative to mercury, and can withstand higher temperatures 
 than mercury. An even lower melting point of -19 degree C (-2 degree F),
 well below the freezing point of water, is claimed for the alloy galinstan 
-(62–95% gallium, 5–22% indium, and 0–16% tin by weight), but that may be 
+(62-95% gallium, 5-22% indium, and 0-16% tin by weight), but that may be 
 the freezing point with the effect of supercooling.
 
 Since its discovery in 1875, gallium has been used to make alloys with low 

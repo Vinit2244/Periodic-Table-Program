@@ -11,7 +11,7 @@ preparation of metallic scandium, which was first done in 1937,
 applications for scandium were not developed until the 1970s, when the 
 positive effects of scandium on aluminium alloys were discovered, and 
 its use in such alloys remains its only major application. The global 
-trade of scandium oxide is 15–20 tonnes per year.
+trade of scandium oxide is 15-20 tonnes per year.
 
 The properties of scandium compounds are intermediate between those of 
 aluminium and yttrium. A diagonal relationship exists between the 
@@ -28,7 +28,7 @@ Scandium turnings ignite in the air with a brilliant yellow flame to form
 scandium oxide.
 
 In Earth's crust, scandium is not rare. Estimates vary from 18 to 25 ppm, 
-which is comparable to the abundance of cobalt (20–30 ppm). Scandium is 
+which is comparable to the abundance of cobalt (20-30 ppm). Scandium is 
 only the 50th most common element on Earth (35th most abundant in the crust),
  but it is the 23rd most common element in the Sun. However, scandium is 
 distributed sparsely and occurs in trace amounts in many minerals.

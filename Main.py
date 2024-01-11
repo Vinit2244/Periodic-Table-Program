@@ -1,4 +1,5 @@
 '''
+--> Run the program as administrator
 -->Please first run the the 'audio_generator' file in the audio folder if the audio files are not created
 -->Please make sure that you have installed the following modules before moving ahead with the program
 1) Tkinter - 'pip install tk'
@@ -7,11 +8,27 @@
 4) Pygame - 'pip install pygame'
 5) Keyboard - 'pip install keyboard'
 -->These commands are to be executed at command prompt on windows
+
+--> Follow the steps to install tkinter
+# 👇️ === UBUNTU / DEBIAN ===
+sudo apt-get install python3-tk
+
+# 🚨 Make sure to specify the correct Python version.
+# For example, my Python v is 3.10, so I would install as
+sudo apt-get install python3.10-tk
+
+# 👇️ === MacOS ===
+brew install python-tk@3.10
+
+# 🚨 Make sure to specify the correct Python version.
+# For example, if you run Python v3.9 run adjust command to
+brew install python-tk@3.9
+
 '''
 
 import mysql.connector as Connector # Python MySQL Connector
 from tkinter import *               # Main tinker module
-# from tkinter.tix import *           # Module for tool tip
+# from tkinter.tix import *         # Module for tool tip
 from PIL import ImageTk, Image      # Module for image manipulation
 from tkinter.font import Font       # Module for font
 from tkinter import messagebox      # Module for pop-up message box
@@ -36,6 +53,10 @@ Table format: column1 = Username and column2 = Password
 |  Sonia12 | son1234  |
 +----------+----------+
 '''
+
+host = "localhost"
+user = "root"
+password = "vinit123"
 
 # Dictionary of elements in {"Atomic number" : "Name"} format
 # Elements are referenced through out the program through this
@@ -178,7 +199,7 @@ def main():
     
     window = Tk()                                           # Creating window instance
     window.resizable(False, False)                          # Window is not resizable
-    window.iconbitmap('921815.ico')                         # Setting icon of the window
+    window.iconbitmap('favicon.ico')                         # Setting icon of the window
     window.title('Sign In Window')                          # Setting title of the window
     window.geometry('700x350+350+180')                      # Setting window size 
     bg = ImageTk.PhotoImage(file='mainbg.jpg')              # Assigning bg-img to the "bg" variable
@@ -261,7 +282,7 @@ def main():
                 else:
                     if password_strength(new_password) == 'strong':  # Checking strength of the password entered using the "password_strength function defined above
                         # Establishing connection with Mysql
-                        con = Connector.connect(host='localhost',user='root',passwd='root',database='username_pass')
+                        con = Connector.connect(host=host,user=user,passwd=password,database='username_pass')
                         # Creating cursor instance
                         cursor = con.cursor()
                         # Query to insert new accounts data
@@ -288,7 +309,7 @@ def main():
         window.destroy()                                                # Destroying the signin window once
         signup_window = Tk()                                            # Creating new window instance for signup window                                                                  
         signup_window.resizable(False, False)                           # Window not resizable
-        signup_window.iconbitmap('921815.ico')                          # Setting window icon
+        signup_window.iconbitmap('favicon.ico')                          # Setting window icon
         signup_window.title('Sign Up Window')                           # Setting window title
         signup_window.geometry('700x350+350+180')                       # Setting window dimensions
         
@@ -311,7 +332,7 @@ def main():
         # Username entry widget for user to enter username
         username_enter = Entry(signup_window, width = 40)
         # Putting the entry widget up on canvas
-        username_enter_window = signup_canvas.create_window(155, 135, window = username_enter)
+        username_enter_window = signup_canvas.create_window(200, 135, window = username_enter)
 
         # Label displaying "Password:"
         signup_canvas.create_text(85, 175, text='Password:', font=('Helvetica',15,'bold'),fill='black')
@@ -319,7 +340,7 @@ def main():
         # Password entry widget for user to enter password
         password_enter = Entry(signup_window, width = 40, show='*')
         # Putting the entry widget up on canvas
-        password_enter_window = signup_canvas.create_window(155, 200, window = password_enter)
+        password_enter_window = signup_canvas.create_window(200, 200, window = password_enter)
 
         # Label displaying "Re-enter Password:"
         signup_canvas.create_text(125, 240, text='Re-enter Password:', font=('Helvetica',15,'bold'),fill='black')
@@ -327,7 +348,7 @@ def main():
         # Entry widget for user to enter password again
         re_enter_textbox = Entry(signup_window, width = 40, show='*')
         # Putting entry widget up on canvas
-        re_enter_textbox_window = signup_canvas.create_window(155, 265, window = re_enter_textbox)
+        re_enter_textbox_window = signup_canvas.create_window(200, 265, window = re_enter_textbox)
 
         # Button to submit info
         signup_button = Button(signup_window, text='SIGN UP',command=new_acc,width=30,font=('Helvetica',10,'bold'),bg='#cccccc')
@@ -354,16 +375,17 @@ def main():
         '''
         
         # Establishing connection with database
-        con = Connector.connect(host='localhost',user='root',passwd='root',database='username_pass')
+        con = Connector.connect(host=host,user=user,passwd=password,database='username_pass')
         # Creating cursor instance to interact with the database 
         cursor = con.cursor()
         # Getting the username and password entered by the user
         username_entered = str(username_entry_widget.get())
         password_entered = str(password_entry_widget.get())
         # Extracting all data of usernames and passwords from DB
-        cursor.execute('select * from data')
+        cursor.execute('select * from data;')
         # Fetching all data from cursor instance
         all_data = cursor.fetchall()
+        print(all_data)
         # Dictionary to hold username: password values stored
         usernames_passwords_dict = {}
         for i in all_data:  # Iterating through the extracted data which is a list of tuples
@@ -397,7 +419,7 @@ def main():
         splash = Tk()                                       # Creating new window instance
         splash.resizable(False, False)                      # Window not resizable
         splash.title('Loading...')                          # Setting title of the window to 'Loading...'
-        splash.iconbitmap('921815.ico')                     # Setting icon of the window
+        splash.iconbitmap('favicon.ico')                     # Setting icon of the window
         splash.geometry('500x170+400+250')                  # Setting screen size
         
         background = ImageTk.PhotoImage(file='load.jpg')  # Loading bg-img in the variable
@@ -430,7 +452,7 @@ def main():
         root = Tk()                                             # Creating main window
         screen_width = root.winfo_screenwidth()                 # Getting screen width of PC
         screen_height = root.winfo_screenheight()               # Getting screen height of PC
-        root.iconbitmap('921815.ico')                           # Setting icon
+        root.iconbitmap('favicon.ico')                           # Setting icon
         root.title("Periodic Table")                            # Setting title
         root.geometry(f'{screen_width}x{screen_height}+-10+0')  # Setting screen size and position on screen using
                                                                 # the screen width and height, using f string literal
@@ -457,7 +479,7 @@ def main():
             myFont = Font(family="Helvetica",                       
                           size=10,
                           weight="bold")
-            file = open("Elements\\"+ elemDict[str(x+1)] +".txt", 'r')   # Opening file of next element to work with
+            file = open("Elements/"+ elemDict[str(x+1)] +".txt", 'r')   # Opening file of next element to work with
             top.destroy()  # Destroy the window of previous element
             # Creating and defining new window
             top = Toplevel()  # Creating top level instance
@@ -465,8 +487,8 @@ def main():
             # tip = Balloon(top)  # Tooltip initiated
             top.title(elemDict[str(x+1)])  # Putting the name of the next element as title(here x is the atomic number
                                            # of currently displayed element which is taken as an argument by the function call)
-            top.iconbitmap("921815.ico")  # Setting icon of the window
-            img = ImageTk.PhotoImage(Image.open("imgs\\"+ elemDict[str(x+1)] +".jpg"))  # Opening image of the new element
+            top.iconbitmap("favicon.ico")  # Setting icon of the window
+            img = ImageTk.PhotoImage(Image.open("imgs/"+ elemDict[str(x+1)] +".jpg"))  # Opening image of the new element
             information = file.read()  # Reading info from the file
             # Status bar at bottom
             # Status bar shows the atomic number of the current element which the user is seeing
@@ -535,7 +557,8 @@ def main():
             myFont = Font(family="Helvetica",                       
                           size=10,
                           weight="bold")
-            file = open("Elements\\"+ elemDict[str(x-1)] +".txt", 'r')   # Opening previous element file to work with
+            
+            file = open("Elements/"+ elemDict[str(x-1)] +".txt", 'r')   # Opening previous element file to work with
             top.destroy()  # Destroying the current window which is open
             # Creating and defining new window
             top = Toplevel()  # Creating new window instance
@@ -543,8 +566,8 @@ def main():
             # tip = Balloon(top)  # Tooltip initiated
             top.title(elemDict[str(x-1)])  # Taking the name of the element from the dictionary using its atomic number
                                            # and assigning it as the title of the window
-            top.iconbitmap("921815.ico")  # Setting the icon of the window
-            img = ImageTk.PhotoImage(Image.open("imgs\\"+ elemDict[str(x-1)] +".jpg"))  # Opening the image in the variable
+            top.iconbitmap("favicon.ico")  # Setting the icon of the window
+            img = ImageTk.PhotoImage(Image.open("imgs/"+ elemDict[str(x-1)] +".jpg"))  # Opening the image in the variable
             information = file.read()  # Reading information of the previous element from its file
             # Status bar at bottom
             # Status bar shows the atomic number of the current element which the user is seeing
@@ -604,14 +627,14 @@ def main():
             myFont = Font(family="Helvetica",                       
                           size=10,
                           weight="bold")
-            file = open("Elements\\"+ elemDict[x] +".txt", 'r', encoding='utf-8')  # Opening file to work with
+            file = open("Elements/"+ elemDict[x] +".txt", 'r', encoding='utf-8')  # Opening file to work with
             # Creating and defining new window
             top = Toplevel()  # Creating new top window to open over the main window
             top.resizable(False, False)  # Window not resizable
             # tip = Balloon(top)  # Initialising tooltip
             top.title(elemDict[x])  # Setting title of window
-            top.iconbitmap("921815.ico")  # Setting icon of the window
-            img = ImageTk.PhotoImage(Image.open("imgs\\"+ elemDict[x] +".jpg"))  # Opening image in variable
+            top.iconbitmap("favicon.ico")  # Setting icon of the window
+            img = ImageTk.PhotoImage(Image.open("imgs/"+ elemDict[x] +".jpg"))  # Opening image in variable
             information = file.read()  #  Reading information from file
 
             # Status bar at bottom
@@ -701,7 +724,7 @@ def main():
                 
                 global thanks_img  # Global variable to hold the thanks image
                 splash_2 = Tk()  # Creating splash window
-                splash_2.iconbitmap('921815.ico')  # Setting window icon
+                splash_2.iconbitmap('favicon.ico')  # Setting window icon
                 splash_2.resizable(False, False)  # Window not resizable
                 splash_2.geometry('562x270+450+200')  # Setting window size
                 splash_2.title('Thank You!')  # Setting window title
@@ -729,15 +752,15 @@ def main():
 
         # NOTE label
         noteLabel = Label(frame, text="NOTE : CLick on the elements\nto know about them", justify=CENTER, font=('Helvetica',10))
-        noteLabel.grid(row=0, column=6, columnspan=4)
+        noteLabel.grid(row=0, column=5, columnspan=4)
         
         # Copyright Label
         copy_right_Label = Label(frame, text="\u00a9"+" 2020 Vinit Mehta", justify=CENTER, font=('Helvetica',15))
-        copy_right_Label.grid(row=1, column=6, columnspan=4)
+        copy_right_Label.grid(row=1, column=5, columnspan=4)
 
         # Drop-Down Menu(Combo Box)
         options = ['Options','Logout', 'Change Account']  # List containing the list of option to be displayed in drop-down menu
-        drop = ttk.Combobox(frame,value=options,width=20)  # Creating combo box
+        drop = ttk.Combobox(frame, value=options, width=20)  # Creating combo box
         drop.grid(row=0, column=14, columnspan=2)  # Putting combo box up on screen
         drop.current(0)  # Setting the default value to be displayed in combo box 
         drop.bind('<<ComboboxSelected>>', selected)  # Action to be taken when some option is selected
@@ -1905,15 +1928,15 @@ def main():
     signin_canvas.create_text(85, 110, text='Username:', font=('Helvetica',15,'bold'),fill='black')
 
     # Usename entry widget
-    username_entry_widget = Entry(window, width = 40,border=2)
-    username_entry_widget_window = signin_canvas.create_window(155, 135, window = username_entry_widget)
+    username_entry_widget = Entry(window, width = 40,border=0)
+    username_entry_widget_window = signin_canvas.create_window(200, 135, window = username_entry_widget)
 
     # Password label
     signin_canvas.create_text(85, 175, text='Password:', font=('Helvetica',15,'bold'),fill='black')
-    password_entry_widget = Entry(window, width = 40, border=2, show='*')
+    password_entry_widget = Entry(window, width = 40, border=0, show='*')
 
     # Password entry widget
-    password_entry_widget_window = signin_canvas.create_window(155, 200, window = password_entry_widget)
+    password_entry_widget_window = signin_canvas.create_window(200, 200, window = password_entry_widget)
 
     # Initiating tooltip
     # tip = Balloon(window)

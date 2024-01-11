@@ -31,9 +31,9 @@ The late 20th century to early 21st century has been described as the Silicon Ag
 (also known as the Digital Age or Information Age) due to elemental silicon having
 a large impact on the modern world economy. The relatively small portion of very 
 highly purified elemental silicon used in semiconductor electronics (< 10%) is 
-essential to the metal–oxide–semiconductor (MOS) transistors and integrated circuit 
+essential to the metal oxide semiconductor (MOS) transistors and integrated circuit 
 chips used in most modern technology (such as computers and cell phones, for example). 
-The most widely used silicon device is the MOSFET (metal–oxide–semiconductor field-
+The most widely used silicon device is the MOSFET (metal oxide semiconductor field-
 effect transistor), which has been manufactured in larger numbers than any other 
 device in history. Free silicon is also used in the steel refining, aluminium-casting, 
 and fine chemical industries (often to make fumed silica).
